@@ -14001,7 +14001,7 @@ background: #000;
 }
 .product-div .image-effect-one img {
     width: 60% !important;
-    margin: auto;
+    margin: 16px auto;
     display: block;
 }
 .product-div .image-effect-one .figcaption
