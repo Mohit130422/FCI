@@ -13976,7 +13976,7 @@ background: #000;
 	z-index:10;
 }
 .product-row{
-	padding-left: 200px; 
+	/* padding-left: 200px;  */
 	padding-right: auto;
 }
 .product-div
