@@ -5621,11 +5621,11 @@ position:relative;
 }
 
 .mt-breadcrumb li a {
-	color: #f5be23;
+	color: #ffff !important;
 }
 
 .mt-breadcrumb li a:hover {
-	color: #f5be23;
+	color: #f5be23 !important;
 }
 
 .mt-breadcrumb li:last-child {
@@ -13978,6 +13978,9 @@ background: #000;
 .product-row{
 	/* padding-left: 200px;  */
 	padding-right: auto;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 .product-div
 {
