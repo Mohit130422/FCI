@@ -10525,6 +10525,10 @@ Background Effects
 	background-position: center;
 }
 
+.brand-bg-center{
+	background-image: url('../images/products/products.jpg');
+}
+
 .bg-top-left {
 	background-position: top left;
 }
